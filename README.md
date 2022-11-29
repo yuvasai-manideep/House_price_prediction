@@ -15,14 +15,23 @@ The aim of the project is to predict house price for the given Dataset. The Data
 ## Problem Statement
      The goal is to understand the relationship between house features and how these variables affect the house price.
  Dataset contains 9 columns and 415 rows with CSV extension. The data contains the following columns:
+ 
 •	Transaction date
+
 •	House Age
+
 •	Distance from nearest Metro station (km)
+
 •	Number of convenience stores
+
 •	Latitude
+
 •	Longitude
+
 •	Number of bedrooms
+
 •	House size (sqft)
+
 •	House price of unit area
 
 In this House price prediction, I used 4 prediction model i.e., Linear Regression, Random Forest model, Decision tree algorithm, XG Boost.
